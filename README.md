@@ -16,6 +16,10 @@ There are so many new models and archtectures. If you find something inetresting
 * RNN
   * Tree LSTM
   * [ACT: Adaptive Computation Time](https://arxiv.org/abs/1603.08983)
+  * [Quasi-Recurrent Neural Networks](https://arxiv.org/pdf/1611.01576.pdf)
+  * [SRU: Training RNNs as Fast as CNNs](https://arxiv.org/abs/1709.02755)
+  * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
+  * [RNN Encoder-Decoder](https://arxiv.org/abs/1406.1078)
   * Attention
     * [Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
     * [DCN:Dynamic Coattention Networks](https://arxiv.org/abs/1611.01604), [DCN+](https://arxiv.org/abs/1711.00106)
