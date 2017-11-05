@@ -1,3 +1,7 @@
+# Simple txt to README.md
+# Just download txt and png after updating from
+# https://coggle.it/diagram/Wf5mYoJbsgABUF9P and
+# run this script
 head='# Deep Architecture Genealogy\n' \
      'There are so many new models and archtectures. ' \
      'If you find something inetresting and worth to pay attention, please let us know.\n' \
