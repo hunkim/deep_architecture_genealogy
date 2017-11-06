@@ -8,7 +8,8 @@ head='# Deep Architecture Genealogy\n' \
      '## Mindmap Coggle Link\n' \
      'https://coggle.it/diagram/Wf5mYoJbsgABUF9P\n' \
      '![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)\n' \
-     '## Text Version\n'
+     '## Text Version\n' \
+     'This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.'
 
 tail = '\n## Contributions\nYour pull requests and issues are always welcome.' \
 
