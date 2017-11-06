@@ -4,7 +4,8 @@ There are so many new models and archtectures. If you find something inetresting
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 ![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
 ## Text Version
-This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.* Memory Networks
+This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.
+* Memory Networks
   * Neural Programming
     * [Neural Turing Machine,'14.10](https://arxiv.org/pdf/1410.5401.pdf)
     * [Neural Random-Access Machines,'16.02](https://arxiv.org/pdf/1511.06392.pdf)
