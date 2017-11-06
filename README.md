@@ -2,6 +2,7 @@
 There are so many new models and archtectures. If you find something inetresting and worth to pay attention, please let us know.
 ## Mindmap Coggle Link
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
+![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
 ## Text Version
 * Memory Network
   * [Memory Network]
@@ -17,8 +18,8 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 * CNN
   * AlexNet
   * VggNet
-  * ResNet
   * GoggleNet
+  * ResNet
   * DenseNet
   * Object Detection
     * [R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
@@ -63,5 +64,7 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
         * [PPGN, '16.11.30](https://arxiv.org/pdf/1612.00005.pdf)
         * [StackGAN, '16.12.10](https://arxiv.org/pdf/1612.03242.pdf)
         * [CycleGAN, '17.03.31](https://arxiv.org/pdf/1703.10593.pdf)
-## Mind Map (IMG)
-![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
+
+## Contributions
+Your pull requests and issues are always welcome.
+

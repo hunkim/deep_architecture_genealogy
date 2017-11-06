@@ -7,10 +7,10 @@ head='# Deep Architecture Genealogy\n' \
      'If you find something inetresting and worth to pay attention, please let us know.\n' \
      '## Mindmap Coggle Link\n' \
      'https://coggle.it/diagram/Wf5mYoJbsgABUF9P\n' \
+     '![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)\n' \
      '## Text Version\n'
 
-tail = '\n## Mind Map (IMG)\n' \
-       '![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)'
+tail = '\n## Contributions\nYour pull requests and issues are always welcome.' \
 
 with open('Neural Net Arch Genealogy.txt') as fin, open('README.md', 'w') as fout:
     fout.write(head)
