@@ -4,10 +4,26 @@ There are so many new models and archtectures. If you find something inetresting
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 ![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
 ## Text Version
-* Memory Network
-  * [Memory Network]
-  *  [End-to-End Memory Network](https://arxiv.org/pdf/1503.08895.pdf)
-  * Dynamic Memory Network
+* Memory Augmented Networks
+  * Neural Turing Machine
+    * [Neural Turing Machine (NTM), '14.10](https://arxiv.org/abs/1410.5401)
+    * [Reinforcement Learning NTM, '15.05](https://arxiv.org/abs/1505.00521)
+    * [Differentiable Neural Computer (DNC), '16.10](https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html) 
+    * [Sparse Access Memory (SAM), '16.10](https://arxiv.org/abs/1610.09027)
+    
+  * Memory Networks
+    * [Memory Network (MemNN), '14.10](https://arxiv.org/abs/1410.3916)
+    * [End-to-End Memory Network (MemN2N), '15.03](https://arxiv.org/abs/1503.08895)
+    * [Dynamic Memory Network (DMN) - Text, '15.06](https://arxiv.org/abs/1506.07285)
+    * [Dynamic Memory Network (DMN) - Text & Visual, '16.03](https://arxiv.org/abs/1603.01417)
+    * [Key-Value Memory Network (KV-MemNN), '16.06](https://arxiv.org/abs/1606.03126)
+    
+  * Others
+    * [Stack-augmented RNN, '15.03](https://arxiv.org/abs/1503.01007)
+    * [Neural Stack & Queue & Dequeue, '15.05](https://arxiv.org/abs/1506.02516)
+    * [Neural GPU, '15.11](https://arxiv.org/abs/1511.08228)
+    * [Neural Random Access Machine, '15.11](https://arxiv.org/abs/1511.06392)
+    
 * CNN
   * AlexNet
   * VggNet
