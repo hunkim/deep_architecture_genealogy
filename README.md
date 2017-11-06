@@ -16,6 +16,13 @@ This is automatically generated. Please send a PR on the `Neural Net Arch Geneal
   * [Memory Networks,'14.10](https://arxiv.org/abs/1410.3916)
   *  [End-to-End Memory Network,'15.03](https://arxiv.org/pdf/1503.08895.pdf)
   * Dynamic Memory Network
+  * [Neural Turing Machine, '14.10](https://arxiv.org/pdf/1410.5401.pdf)
+  * [Hybrid Computing using a neural network with dynamic external memory, '16.10](https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
+  * [Neural Programmer, '16.08](https://arxiv.org/pdf/1511.04834.pdf)
+  * [Neural Random-Access Machines, '16.02](https://arxiv.org/pdf/1511.06392.pdf)
+  * [Neural GPUs Learn Algorithms, '16.03](https://arxiv.org/pdf/1511.08228.pdf)
+  * [Learning Efficient Algorithm with Hierarchical Attentive Memory, '16.02](https://arxiv.org/abs/1602.03218.pdf)
+  
 * CNN
   * AlexNet
   * VggNet
@@ -73,5 +80,7 @@ This is automatically generated. Please send a PR on the `Neural Net Arch Geneal
         * [PPGN, '16.11.30](https://arxiv.org/pdf/1612.00005.pdf)
         * [StackGAN, '16.12.10](https://arxiv.org/pdf/1612.03242.pdf)
         * [CycleGAN, '17.03.31](https://arxiv.org/pdf/1703.10593.pdf)
+
 ## Contributions
 Your pull requests and issues are always welcome.
+
