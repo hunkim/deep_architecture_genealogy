@@ -8,15 +8,16 @@ Neural Net Arch Genealogy
 			[Neural Programmer,'16.08](https://arxiv.org/pdf/1511.04834.pdf)
 			[Neural Module Networks, '16.06](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Andreas_Neural_Module_Networks_CVPR_2016_paper.html)
 			[Hybrid Computing, '16.10](https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
-		[Memory Networks,'14.10](https://arxiv.org/abs/1410.3916)
-		 [End-to-End Memory Network,'15.03](https://arxiv.org/pdf/1503.08895.pdf)
-		[Dynamic Memory Networks, '15.06](https://arxiv.org/abs/1506.07285)
+		[Memory Networks,'14.10](https://arxiv.org/pdf/1410.3916.pdf)
+		[End-to-End Memory Network,'15.03](https://arxiv.org/pdf/1503.08895.pdf)
+		[DMN: Dynamic Memory Network, '16.03](https://arxiv.org/pdf/1506.07285.pdf),[DMN+, `16.04 ](https://arxiv.org/pdf/1603.01417.pdf) 
 	CNN
 		AlexNet
 		VggNet
 		GoggleNet
 		ResNet
 		DenseNet
+		[SENet: Squeeze-and-Excitation Networks, '17.09](https://arxiv.org/abs/1709.01507)
 		Object Detection
 			[R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
 			[Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
@@ -45,9 +46,8 @@ Neural Net Arch Genealogy
 		[S2S: RNN Encoder-Decoder, '14.06](https://arxiv.org/abs/1406.1078)
 			[Attention: Jointly Learning to Align, '14.09](https://arxiv.org/abs/1409.0473)
 				[Effective Approaches to Attention, Luong et al. '15.08](https://arxiv.org/abs/1508.04025)
-				[DCN: Dynamic Coattention Networks, '16.08](https://arxiv.org/abs/1611.01604)
+				[DCN: Dynamic Coattention Networks, '16.08](https://arxiv.org/abs/1611.01604), [DCN+, '17.08](https://arxiv.org/abs/1711.00106)
 				[Transformer: Attention Is All You Need, '17.06](https://arxiv.org/abs/1706.03762)
-				[DCN+, '17.08](https://arxiv.org/abs/1711.00106)
 	[Capsule Net, '17.10](https://arxiv.org/abs/1710.09829)
 	Generative Models
 		Autoregressive models
@@ -62,7 +62,7 @@ Neural Net Arch Genealogy
 				[AAE, '15.11.18](https://arxiv.org/pdf/1511.05644.pdf)
 				[AVB, '17.01.17](https://arxiv.org/pdf/1701.04722.pdf)
 				[VQ-VAE, '17.11.2](https://arxiv.org/abs/1711.00937)
-			[GAN, '14.06.10](https://arxiv.org/abs/1406.2661)
+			[GAN, '14.06.10](https://arxiv.org/pdf/1406.2661.pdf)
 				Variants
 					[CGAN, '14.11.06](https://arxiv.org/pdf/1411.1784.pdf)
 					[DCGAN, '15.11.19](https://arxiv.org/pdf/1511.06434.pdf)
@@ -72,6 +72,7 @@ Neural Net Arch Genealogy
 					[WGAN, '17.01.26](https://arxiv.org/pdf/1701.07875.pdf)
 					[BEGAN, '17.02.27](https://arxiv.org/pdf/1702.08431.pdf)
 					[WGAN-GP, '17.03.31](https://arxiv.org/pdf/1704.00028.pdf)
+					[TripleGAN, '17.03.07](https://arxiv.org/pdf/1703.02291.pdf)
 				Applications
 					[Pix2Pix, '16.11.21](https://arxiv.org/pdf/1611.07004v1.pdf)
 					[PPGN, '16.11.30](https://arxiv.org/pdf/1612.00005.pdf)
