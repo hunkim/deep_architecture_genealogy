@@ -1,6 +1,7 @@
 # Deep Architecture Genealogy
 There are so many new models and architectures. If you find something interesting and worth paying attention to, please send us a pull requests (PR) and write issues.
-`README.md` is automatically generated. Please send PRs on the `Neural Net Arch Genealogy.txt` file.## Mindmap Coggle Link
+`README.md` is automatically generated. Please send PRs on the `Neural Net Arch Genealogy.txt` file.
+## Mindmap Coggle Link
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 ![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
 ## Text Version
