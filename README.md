@@ -22,6 +22,7 @@ This is automatically generated. Please send a PR on the `Neural Net Arch Geneal
   * GoggleNet
   * ResNet
   * DenseNet
+  * SENet (ILSVRC 2017 image classification winner)
   * Object Detection
     * [R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
     * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
@@ -68,6 +69,7 @@ This is automatically generated. Please send a PR on the `Neural Net Arch Geneal
         * [WGAN, '17.01.26](https://arxiv.org/pdf/1701.07875.pdf)
         * [BEGAN, '17.02.27](https://arxiv.org/pdf/1702.08431.pdf)
         * [WGAN-GP, '17.03.31](https://arxiv.org/pdf/1704.00028.pdf)
+        * [TripleGAN, '17.03.07](https://arxiv.org/pdf/1703.02291.pdf)
       * Applications
         * [Pix2Pix, '16.11.21](https://arxiv.org/pdf/1611.07004v1.pdf)
         * [PPGN, '16.11.30](https://arxiv.org/pdf/1612.00005.pdf)
