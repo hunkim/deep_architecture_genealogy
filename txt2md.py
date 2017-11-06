@@ -3,8 +3,8 @@
 # https://coggle.it/diagram/Wf5mYoJbsgABUF9P and
 # run this script
 head='# Deep Architecture Genealogy\n' \
-     'There are so many new models and archtectures. ' \
-     'If you find something inetresting and worth to pay attention, please let us know.\n' \
+     'There are so many new models and architectures. ' \
+     'If you find something inetresting and worth paying attention to, please let us know.\n' \
      '## Mindmap Coggle Link\n' \
      'https://coggle.it/diagram/Wf5mYoJbsgABUF9P\n' \
      '![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)\n' \
