@@ -4,9 +4,16 @@ There are so many new models and archtectures. If you find something inetresting
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 ![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
 ## Text Version
-* Memory Network
-  * [Memory Network]
-  *  [End-to-End Memory Network](https://arxiv.org/pdf/1503.08895.pdf)
+* Memory Networks
+  * Neural Programming
+    * [Neural Turing Machine,'14.10](https://arxiv.org/pdf/1410.5401.pdf)
+    * [Neural Random-Access Machines,'16.02](https://arxiv.org/pdf/1511.06392.pdf)
+    * [Hierarchical Attentive Memory, '16.02](https://arxiv.org/abs/1602.03218)
+    * [Neural GPUs Learn Algorithms, '16.03](https://arxiv.org/pdf/1511.08228.pdf)
+    * [Neural Programmer,'16.08](https://arxiv.org/pdf/1511.04834.pdf)
+    * [Hybrid Computing, '16.10](https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
+  * [Memory Networks,'14.10](https://arxiv.org/abs/1410.3916)
+  *  [End-to-End Memory Network,'15.03](https://arxiv.org/pdf/1503.08895.pdf)
   * Dynamic Memory Network
 * CNN
   * AlexNet
@@ -29,7 +36,7 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
       * [DCN: Dynamic Coattention Networks](https://arxiv.org/abs/1611.01604)
       * [DCN+](https://arxiv.org/abs/1711.00106)
       * [Transformer: Attention Is All You Need, '17.06](https://arxiv.org/abs/1706.03762)
-* [Capsule Net](https://example.com)
+* [Capsule Net](https://arxiv.org/abs/1710.09829)
 * Generative Models
   * Autoregressive models
     * [MADE, '15.02.12](https://arxiv.org/pdf/1502.03509.pdf)
