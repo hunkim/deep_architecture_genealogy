@@ -21,7 +21,7 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
   * Others
     * [Stack-augmented RNN, '15.03](https://arxiv.org/abs/1503.01007)
     * [Neural Stack & Queue & Dequeue, '15.05](https://arxiv.org/abs/1506.02516)
-    * [Neural GPU, '15.11](https://arxiv.org/abs/1511.08228)
+    * [Neural GPUs learn algorithms, '15.11](https://arxiv.org/abs/1511.08228)
     * [Neural Random Access Machine, '15.11](https://arxiv.org/abs/1511.06392)
     
 * CNN
