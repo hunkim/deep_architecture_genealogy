@@ -58,6 +58,7 @@ This is automatically generated. Please send a PR on the `Neural Net Arch Geneal
       * [CVAE, '14.06.20](https://arxiv.org/pdf/1406.5298.pdf)
       * [AAE, '15.11.18](https://arxiv.org/pdf/1511.05644.pdf)
       * [AVB, '17.01.17](https://arxiv.org/pdf/1701.04722.pdf)
+      * [VQ-VAE, '17.11.2](https://arxiv.org/abs/1711.00937)
     * [GAN, '14.06.10](https://arxiv.org/abs/1406.2661)
       * Variants
         * [CGAN, '14.11.06](https://arxiv.org/pdf/1411.1784.pdf)
