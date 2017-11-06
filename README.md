@@ -14,12 +14,12 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
   * GoggleNet
   * ResNet
   * DenseNet
+  * SENet (ILSVRC 2017 image classification winner)
   * Object Detection
     * [R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
     * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
     * [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf)
     * [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
-  * SENet (ILSVRC 2017 image classification winner)
 * RNN
   * [LSTM, '97.11](http://www.mitpressjournals.org/doi/10.1162/neco.1997.9.8.1735)
   * [GRU, 14.11](https://arxiv.org/abs/1412.3555)
