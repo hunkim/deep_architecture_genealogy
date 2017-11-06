@@ -26,6 +26,14 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
     * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
     * [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf)
     * [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
+  * Super-resolution
+    * [MemNet](https://arxiv.org/abs/1708.02209)
+    * [FSRCNN](https://arxiv.org/1608.00367)
+    * [SRCNN](https://arxiv.org/abs/1501.00092)
+    * [VDSR](https://arxiv.org/abs/1511.04587)
+    * [DRCN](https://arxiv.org/abs/1511.04491)
+    * [LabSRN](https://arxiv.org/abs/1704.03915)
+    * [EDSR](https://arxiv.org/abs/1707.02921)
 * RNN
   * [LSTM, '97.11](http://www.mitpressjournals.org/doi/10.1162/neco.1997.9.8.1735)
   * [GRU, 14.11](https://arxiv.org/abs/1412.3555)
