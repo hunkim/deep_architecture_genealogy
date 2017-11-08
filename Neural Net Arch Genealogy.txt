@@ -78,3 +78,9 @@ Neural Net Arch Genealogy
 					[PPGN, '16.11.30](https://arxiv.org/pdf/1612.00005.pdf)
 					[StackGAN, '16.12.10](https://arxiv.org/pdf/1612.03242.pdf)
 					[CycleGAN, '17.03.31](https://arxiv.org/pdf/1703.10593.pdf)
+					
+	Reinforcement Learning Algorithms
+   		[A3C, '16.02.06](https://arxiv.org/abs/1602.01783)
+		[DARLA, '17.07.26](https://arxiv.org/pdf/1707.08475.pdf)
+		[ACTKR, '17.08.17](https://arxiv.org/pdf/1708.05144.pdf)
+		[c51, '17.10.27](https://arxiv.org/pdf/1710.10044.pdf)
