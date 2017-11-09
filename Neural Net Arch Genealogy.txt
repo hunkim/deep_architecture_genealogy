@@ -12,7 +12,7 @@ Neural Net Arch Genealogy
 		[End-to-End Memory Network,'15.03](https://arxiv.org/pdf/1503.08895.pdf)
 		[DMN: Dynamic Memory Network, '16.03](https://arxiv.org/pdf/1506.07285.pdf),[DMN+, `16.04 ](https://arxiv.org/pdf/1603.01417.pdf) 
 	CNN
-		AlexNet
+		[AlexNet, '12.12] (https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 		VggNet
 		GoggleNet
 		ResNet
