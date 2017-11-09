@@ -5,7 +5,7 @@ Neural Net Arch Genealogy
 		[ACTKR, '17.08.17](https://arxiv.org/pdf/1708.05144.pdf)
 		[c51, '17.10.27](https://arxiv.org/pdf/1710.10044.pdf)
 	CNN
-		AlexNet
+		[AlexNet, '12.12] (https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 		VggNet
 		[GoogLeNet, '14.09](https://arxiv.org/abs/1409.4842)
 		ResNet
