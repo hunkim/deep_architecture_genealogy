@@ -32,6 +32,8 @@ Neural Net Arch Genealogy
 			[DRCN](https://arxiv.org/abs/1511.04491)
 			[LabSRN](https://arxiv.org/abs/1704.03915)
 			[EDSR](https://arxiv.org/abs/1707.02921)
+		TTS
+			[Wavenet, '16.09.12](https://arxiv.org/abs/1609.03499)
 	Generative Models
 		Autoregressive models
 			[MADE, '15.02.12](https://arxiv.org/pdf/1502.03509.pdf)
