@@ -36,6 +36,16 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
       * [DCN: Dynamic Coattention Networks](https://arxiv.org/abs/1611.01604)
       * [DCN+](https://arxiv.org/abs/1711.00106)
       * [Transformer: Attention Is All You Need, '17.06](https://arxiv.org/abs/1706.03762)
+
+* Speeech
+  * [End-to-end attention-based large vocabulary speech recognition, '16.03](https://arxiv.org/pdf/1508.04395.pdf)
+  * [Deep speech 2: End-to-end speech recognition in English and Mandarin, '15.12](https://arxiv.org/pdf/1512.02595.pdf)
+  * [Speech recognition with deep recurrent neural networks, '13.03](https://arxiv.org/pdf/1303.5778.pdf)
+  * [Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups, '12.11](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf)
+  * [Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition, '12.01](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf)
+
+
+
 * [Capsule Net](https://example.com)
 * Generative Models
   * Autoregressive models
