@@ -14,9 +14,9 @@ Neural Net Arch Genealogy
 	CNN
 		[AlexNet, '12.12] (https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 		[VggNet, '14.09](https://arxiv.org/pdf/1409.1556.pdf)
-		GoggleNet
-		ResNet
-		DenseNet
+		[GoogLeNet, '14.09](https://arxiv.org/abs/1409.4842)
+		[ResNet, '15.12](https://arxiv.org/pdf/1512.03385v1.pdf)
+		[DenseNet, .16.08](https://arxiv.org/pdf/1608.06993.pdf)
 		[SENet: Squeeze-and-Excitation Networks, '17.09](https://arxiv.org/abs/1709.01507)
 		Object Detection
 			[R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
